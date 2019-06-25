@@ -14,15 +14,15 @@ the family schedule privacy driven content using your own Nextcloud instance in 
 4. A simple small remote or gamepad to navigate the pages on the monitor.  
 
 ### Software 
-Linux 
+1. Linux 
 > Some light function like raspbian  
 
-Nextcloud (With an extra user for shared content) 
+2. Nextcloud (With an extra user for shared content) 
 > Nextcloud is available as a snap  
 
-A lightweight web server with static pages Python 
+3. A lightweight web server with static pages 
+4. Python 
 scripts ran by cron jobs populating json files JavaScript injecting content of webpage from the json files to prevent page refreshes 
-A separated settings file with preferences and hyperlinks readable by human and Python  
 
 > I use DAVx5 to sync my nextcloud calendars to my phone  
 
