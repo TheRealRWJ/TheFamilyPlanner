@@ -8,7 +8,7 @@ the family schedule privacy driven content using your own Nextcloud instance in 
 ## Requirements  
 
 ### Hardware Part 
-1. A 'server' running Nextcloud and a light weight web server Part 
+1. A 'server' running Nextcloud and a light weight web server 
 2. A Raspberry Zero with a monitor loading the web page in kiosk mode Part 
 3. Smart Phones of family members filling calendars, tasks and lists synced to the Nextcloud instance Part 
 4. A simple small remote or gamepad to navigate the pages on the monitor.  
@@ -23,7 +23,7 @@ the family schedule privacy driven content using your own Nextcloud instance in 
 3. A lightweight web server with static pages 
 4. Python 
 scripts ran by cron jobs populating json files JavaScript injecting content of webpage from the json files to prevent page refreshes 
-
+5. App to sync Nextcloud calendars and lists with phones
 > I use DAVx5 to sync my nextcloud calendars to my phone  
 
 > KDE-Connect mouse function for navigating   
