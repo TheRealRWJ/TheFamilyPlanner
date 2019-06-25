@@ -46,6 +46,6 @@ I think current version look pretty neat on the desktop or tablet But it sucks o
 4. Other plugins possible on different pages  
 
 ## Plugins 
-Plugins are modular Plugins have there own page, Python script json file and JavaScript 
-similar plugins could share a single page 
-Pages should still be up when plugins fail to load
+Plugins are modular Plugins have there own page, Python script json file and JavaScript.  
+Similar plugins could share a single page  
+Pages should still be up when plugins fail to load  
