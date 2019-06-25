@@ -29,7 +29,8 @@ scripts ran by cron jobs populating json files JavaScript injecting content of w
 
 > KDE-Connect mouse function for navigating   
 
-## The webpage  privacy driven Locally created content  
+## The webpage  
+privacy driven Locally created content  
 A responsive CSS driven website viewable on multiple device types (Monitor, tablet, phone) 
 i.e.  using bootstrap blocks 
 
