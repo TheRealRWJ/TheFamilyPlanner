@@ -19,9 +19,11 @@ Scraping pages with i.e. Beautifulsoup in stead of using APIs and online account
 > Some light function like raspbian  
 
 2. Nextcloud (With an extra user for shared content) 
-> Nextcloud is available as a snap  
+> Nextcloud is available as a snap and runs on a Raspberry Pi  
 
 3. A lightweight web server with static pages 
+> Mine runs on a Raspberry Pi Zero
+
 4. Python 
 scripts ran by cron jobs populating json files JavaScript injecting content of webpage from the json files to prevent page refreshes 
 5. App to sync Nextcloud calendars and lists with phones
