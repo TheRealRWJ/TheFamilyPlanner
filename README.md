@@ -1,10 +1,6 @@
 # TheFamilyPlanner
 Webpage driven Family planner
 
-
-
-# The Family Planner  
-
 ## Description A monitor displaying dashboard displaying I.e. 
 
 the family schedule privacy driven content using your own Nextcloud instance in stead of something like Google Scraping pages with i.e. Beautifulsoup in stead of using APIs and online accounts  
@@ -17,10 +13,13 @@ the family schedule privacy driven content using your own Nextcloud instance in 
 3. Smart Phones of family members filling calendars, tasks and lists synced to the Nextcloud instance Part 
 4. A simple small remote or gamepad to navigate the pages on the monitor.  
 
-### Software Linux 
+### Software 
+Linux 
 > Some light function like raspbian  
+
 Nextcloud (With an extra user for shared content) 
 > Nextcloud is available as a snap  
+
 A lightweight web server with static pages Python 
 scripts ran by cron jobs populating json files JavaScript injecting content of webpage from the json files to prevent page refreshes 
 A separated settings file with preferences and hyperlinks readable by human and Python  
