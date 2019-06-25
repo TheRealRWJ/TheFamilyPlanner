@@ -2,7 +2,7 @@
 Webpage driven Family planner
 
 ## Description 
-A monitor displaying dashboard displaying I.e. the family schedule 
+A monitor displaying a dashboard showing I.e. the family schedule   
 Privacy driven content using your own Nextcloud instance in stead of something like Google 
 Scraping pages with i.e. Beautifulsoup in stead of using APIs and online accounts  
 
