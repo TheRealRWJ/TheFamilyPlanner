@@ -3,7 +3,9 @@ Webpage driven Family planner
 
 ## Description A monitor displaying dashboard displaying I.e. 
 
-the family schedule privacy driven content using your own Nextcloud instance in stead of something like Google Scraping pages with i.e. Beautifulsoup in stead of using APIs and online accounts  
+The family schedule 
+Privacy driven content using your own Nextcloud instance in stead of something like Google 
+Scraping pages with i.e. Beautifulsoup in stead of using APIs and online accounts  
 
 ## Requirements  
 
@@ -29,7 +31,8 @@ scripts ran by cron jobs populating json files JavaScript injecting content of w
 > KDE-Connect mouse function for navigating   
 
 ## The webpage  privacy driven Locally created content  
-A responsive CSS driven website viewable on multiple device types (Monitor, tablet, phone) i.e.  using bootstrap blocks 
+A responsive CSS driven website viewable on multiple device types (Monitor, tablet, phone) 
+i.e.  using bootstrap blocks 
 
 I think current version look pretty neat on the desktop or tablet But it sucks on a phone  
 
