@@ -1,4 +1,4 @@
-# TheFamilyPlanner
+# The Family Planner
 Webpage driven Family planner
 
 ## Description 
