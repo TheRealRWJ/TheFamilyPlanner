@@ -1,5 +1,5 @@
 # The Family Planner
-Webpage driven Family planner
+Privacy driven Family planner
 
 ## Description 
 A monitor displaying a dashboard showing I.e. the family schedule   
