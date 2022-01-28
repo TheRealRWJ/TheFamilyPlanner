@@ -37,13 +37,6 @@ I think current version looks pretty neat on the desktop or tablet But it still 
 ## Current work flow
 Python scripts ran by cron jobs populating json files. JavaScript injecting content of json file into webpage to prevent page refreshes 
 
-## To Do
-- Read settings from file
-- secure pivate date like url, APIs, Usernames ...
-- Fix layout on small screens. Order of content needs to be changed, so more important info resides on top of the page
-- Enable plugins
-- Get data from necxtcloud in a secure way. Dont like current usage of public calendars and tasks
-- Get picture of planned meals out of mealy 
 
 ## Ideas
 - Make it multi linguale
