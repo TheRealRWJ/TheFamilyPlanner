@@ -4,25 +4,22 @@ Privacy driven Family planner
 ## Description 
 A monitor displaying a dashboard showing I.e. the family schedule   
 Privacy driven content using your own Nextcloud instance instead of something like Google  
-Scraping pages with i.e. Beautifulsoup instead of using APIs and online accounts  
 
 ## Requirements  
 
-### Hardware Part 
-1. A 'server' running Nextcloud and a light weight web server 
-2. A Raspberry Zero with a monitor loading the web page in kiosk mode Part 
-3. Smart Phones of family members filling calendars, tasks and lists synced to the Nextcloud instance Part 
+### Hardware requirements 
+1. (access to) A 'server' running Nextcloud and a light weight web server 
+2. 1.e. A Raspberry Zero with a monitor loading the web page in kiosk mode Part 
+3. Smart Phones of family members filling calendars, tasks and lists synced to the Nextcloud instance  
 4. A simple small remote or gamepad to navigate the pages on the monitor.  
 
 ### Software 
 1. Linux 
 > Some light function like raspbian  
 
-2. Nextcloud (With an extra user for shared content) 
-> Nextcloud is available as a snap and runs on a Raspberry Pi  
+2. Nextcloud, with preferably an extra user for shared content so the wabpage has no access to your own account.
 
 3. A lightweight web server with static pages 
-> Mine runs on a Raspberry Pi Zero
 
 4. Python 
 scripts ran by cron jobs populating json files JavaScript injecting content of webpage from the json files to prevent page refreshes 
@@ -31,24 +28,21 @@ scripts ran by cron jobs populating json files JavaScript injecting content of w
 
 > KDE-Connect mouse function for navigating   
 
-## The webpage  
+### The webpage  
 privacy driven Locally created content  
-A responsive CSS driven website viewable on multiple device types (Monitor, tablet, phone) 
-i.e.  using bootstrap blocks 
-
-I think current version look pretty neat on the desktop or tablet But it sucks on a phone  
+A responsive bootstrap driven website viewable on multiple device types (Monitor, tablet, phone) 
+I think current version looks pretty neat on the desktop or tablet But it still sucks on a phone  
 
 ### The page content could be 
 1. A menu with simple icons populated by a json file displayed on all pages  
-1. Revolving background images from specified  folder 
+1. Revolving background images from specified folder 
 1. Actual date and time 1. Actual weather info  
-1. A combined calendar of all family members. first up event enlarged on top 
-2. A grocery list split in food and no food 
-3. Task list 
-4. Todo list 
-4. Other plugins possible on different pages  
+1. A combined calendar of all family members. First up event enlarged on top 
+2. A grocery list, Task list, Todo list 
+4. Other plugins possible inthe future on other pages  
 
 ## Plugins 
 Plugins are modular Plugins have there own page, Python script json file and JavaScript.  
 Similar plugins could share a single page  
 Pages should still be up when plugins fail to load  
+Still needs a lot of work.
