@@ -49,11 +49,16 @@ Still needs a lot of work.
 
 
 ## To Do
-Read settings from file
-Fix layout on small screens
-  - Order of content needs to be changed, so more important info resides on top of the page
-Enable plugins
-Get data from necxtcloud in a secure way. Dont like current usage of public calendars and tasks
-Get picture of planned meals out of mealy 
+- Read settings from file
+- secure pivate date like url, APIs, Usernames ...
+- Fix layout on small screens. Order of content needs to be changed, so more important info resides on top of the page
+- Enable plugins
+- Get data from necxtcloud in a secure way. Dont like current usage of public calendars and tasks
+- Get picture of planned meals out of mealy 
+
+## Ideas
+- Make it multi linguale
+
+
 
 By the way I only dabble in python, javascript and html/css
