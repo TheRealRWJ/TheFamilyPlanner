@@ -2,8 +2,8 @@
 Privacy driven Family planner
 
 ## Project cancelled
-What I was trying to do can be done with Home-Assistant
-Eventhough i did not commi=t any code yet this project has been cancelled.
+Eventhough i did not commit any code yet, I realised what I was trying to do can be done with an awesome project called https://Home-Assistant.io  
+So this project "The Family Planner" has been cancelled.
 
 ## Description 
 A monitor displaying a dashboard showing I.e. the family schedule   
