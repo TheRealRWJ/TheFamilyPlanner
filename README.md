@@ -1,6 +1,10 @@
 # The Family Planner
 Privacy driven Family planner
 
+## Project cancelled
+What I was trying to do can be done with Home-Assistant
+Eventhough i did not commi=t any code yet this project has been cancelled.
+
 ## Description 
 A monitor displaying a dashboard showing I.e. the family schedule   
 Privacy driven content using your own Nextcloud instance instead of something like Google  
